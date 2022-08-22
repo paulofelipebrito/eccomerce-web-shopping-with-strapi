@@ -36,6 +36,8 @@
     Realtor
 </h1>
 
+[🔗**paulofelipebritoblog.vercel.app**][deploy-url]
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -50,7 +52,7 @@
 
 Welcome to the _GitHub repository_ of my **Realtor** project! Here you can find information about the project's development, such as which technologies were used, how to install and run the project, usage and more.
 
-This site provides many houses and condos for the user find, buy and own your house. Users will find the following feature: **Search for buy property and rent property, search for property with filters, see photos of the house and the current status**. 
+This site provides many houses and condos for the user find, buy and own your house. Users will find the following feature: **Search for buy property and rent property, search for property with filters, see photos of the house and the current status**. If you're confused about where you are, try this [**this link**][deploy-url] to the deployed project instead 😄.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -210,3 +212,4 @@ Use this space to list resources you find helpful and would like to give credit 
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
 [Typescript-url]: (https://www.typescriptlang.org)
+[deploy-url]: https://realtor-home.vercel.app
