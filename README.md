@@ -42,7 +42,8 @@
 <div align="center">
 
 <p style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="github" title="#github" src="./src/assets/demo.gif" > 
+  <img alt="realtor" title="#realtor" src="./assets/demo.gif" > 
+  <img alt="realtor" title="#realtor" src="./assets/demo1.gif" > 
 
 </p>
 </div>
