@@ -79,7 +79,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/paulofelipebrito/real-estate-epp
+   git clone https://github.com/paulofelipebrito/real-estate-app
    ```
 2. Install NPM packages
    ```sh
@@ -141,7 +141,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Paulo Felipe Brito - [LinkedIn](https://www.linkedin.com/in/paulofelipebrito/) - paulofelipebrito@hotmail.com
 
-Project Link: [https://github.com/paulofelipebrito/real-estate-epp](https://github.com/paulofelipebrito/real-estate-epp)
+Project Link: [https://github.com/paulofelipebrito/real-estate-app](https://github.com/paulofelipebrito/real-estate-app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -182,15 +182,15 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/paulofelipebrito/githubprofiles.svg?style=for-the-badge
-[contributors-url]: https://github.com/paulofelipebrito/real-estate-epp/graphs/contributors
+[contributors-url]: https://github.com/paulofelipebrito/real-estate-app/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/paulofelipebrito/githubprofiles.svg?style=for-the-badge
-[forks-url]: https://github.com/paulofelipebrito/real-estate-epp/network/members
+[forks-url]: https://github.com/paulofelipebrito/real-estate-app/network/members
 [stars-shield]: https://img.shields.io/github/stars/paulofelipebrito/githubprofiles.svg?style=for-the-badge
-[stars-url]: https://github.com/paulofelipebrito/real-estate-epp/stargazers
+[stars-url]: https://github.com/paulofelipebrito/real-estate-app/stargazers
 [issues-shield]: https://img.shields.io/github/issues/paulofelipebrito/githubprofiles.svg?style=for-the-badge
-[issues-url]: https://github.com/paulofelipebrito/real-estate-epp/issues
+[issues-url]: https://github.com/paulofelipebrito/real-estate-app/issues
 [license-shield]: https://img.shields.io/github/license/paulofelipebrito/githubprofiles.svg?style=for-the-badge
-[license-url]: https://github.com/paulofelipebrito/real-estate-epp/LICENSE.txt
+[license-url]: https://github.com/paulofelipebrito/real-estate-app/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/paulofelipebrito/
 [product-screenshot]: images/screenshot.png
