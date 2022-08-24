@@ -36,7 +36,7 @@
     Realtor
 </h1>
 
-[🔗**paulofelipebritoblog.vercel.app**][deploy-url]
+[🔗**realtor-home.vercel.app**][deploy-url]
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
